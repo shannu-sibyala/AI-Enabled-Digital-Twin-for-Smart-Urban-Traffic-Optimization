@@ -167,19 +167,6 @@ streamlit run dashboard/streamlit_app.py
 
 ---
 
-## 👥 Team
-
-| Member | Roll No | Responsibility |
-|--------|---------|----------------|
-| **Shanmukha** | 1RN23CD104 | SUMO simulation engine + what-if scenario logic |
-| **Surya** | 1RN23CD072 | AI/ML model (LSTM) + data pipeline |
-| **Pranav** | 1RN23CD066 | Frontend dashboard + Google Maps integration |
-| **Surya** | 1RN23CD097 | Backend API (Flask/FastAPI) + deployment |
-
-> RNS Institute of Technology, Bengaluru — BE CSE (Data Science), Batch of 2027
-
----
-
 ## 🏅 Recognition
 
 - ✅ **IEI (Institution of Engineers India)** — Project idea evaluated and approved
